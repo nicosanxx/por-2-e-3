@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\por_2e3\bin\Debug\por_2e3.exe.config
+C:\Users\nico\source\repos\por_2e3\bin\Debug\por_2e3.exe
+C:\Users\nico\source\repos\por_2e3\bin\Debug\por_2e3.pdb
+C:\Users\nico\source\repos\por_2e3\obj\Debug\por_2e3.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\por_2e3\obj\Debug\por_2e3.Form1.resources
+C:\Users\nico\source\repos\por_2e3\obj\Debug\por_2e3.Properties.Resources.resources
+C:\Users\nico\source\repos\por_2e3\obj\Debug\por_2e3.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\por_2e3\obj\Debug\por_2e3.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\por_2e3\obj\Debug\por_2e3.exe
+C:\Users\nico\source\repos\por_2e3\obj\Debug\por_2e3.pdb
